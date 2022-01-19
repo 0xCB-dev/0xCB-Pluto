@@ -1,4 +1,4 @@
-19900694839993896
+19869546752935756
 0xcb
 0xCB
 
@@ -14,13 +14,6 @@
 0
 0
 0xcb
-32U4 AU + MU
-
-QFN 
-0
-119
-45
-0xcb
 128x64OLED
 
 
@@ -35,19 +28,19 @@ AVR Programmer 6 pogo pin 2.54 mm spacing
 6
 6
 0xcb
+CB-sm
+
+
+0
+0
+0
+0xcb
 Crystal_SMD_3225-4Pin_3.2x2.5mm
 SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
 SMD SMT crystal reduced paste
 0
 4
 4
-0xcb
-EC11
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-6
 0xcb
 Ferrite_Bead_0603
 ferrite bead 0603
@@ -82,20 +75,13 @@ HRO-TYPE-C-31-M-13
 
 0
 20
-20
+17
 0xcb
 JST-SR-4
 
 
 0
 6
-4
-0xcb
-LED_EAST1616RGBA3
-
-
-0
-4
 4
 0xcb
 MX_SK6812MINI-E
@@ -125,6 +111,13 @@ cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
 0
 4
 4
+0xcb
+SL-S
+
+
+0
+0
+0
 0xcb
 SW_Cherry_MX_PCB_1.00u
 Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
@@ -308,13 +301,6 @@ TYPE-C-31-M-12
 16
 14
 0xcb
-molex2169900001
-
-
-0
-20
-20
-0xcb
 mount
 
 
@@ -322,12 +308,12 @@ mount
 1
 1
 0xcb
-pluto
-USB C pro micro compatible microcontroller
+oshw
+
 
 0
-33
-33
+0
+0
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59794,13 +59780,6 @@ Hamamatsu SiPM
 2
 2
 OptoDevice
-Kingbright_KPS-3227
-3.2mmx2.7mm, light sensor, https://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-3227SP1C(Ver.16).pdf
-KPS-3227 Ambient Light Photo Sensor
-0
-4
-4
-OptoDevice
 Kingbright_KPS-5130
 http://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-5130PD7C(Ver.14).pdf
 KPS-5130 photodiode RGB sensor
@@ -84811,31 +84790,3 @@ varistor SIOV
 0
 2
 2
-kikit
-Board
-Mark board for extraction
-
-0
-0
-0
-kikit
-Fiducial
-Circular Fiducial
-fiducial
-0
-1
-0
-kikit
-NPTH
-
-
-0
-0
-0
-kikit
-Tab
-A symbol representing annotation for tab placement
-
-0
-0
-0
