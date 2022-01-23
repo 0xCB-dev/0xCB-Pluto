@@ -27,7 +27,7 @@ KiCad 6 stable
 
 Top | Bottom
 :-------------------------:|:-------------------------:
-![](https://github.com/0xCB-dev/0xcb-Pluto/blob/main/rev1.0/Pluto.top.png)  |  ![](https://github.com/0xCB-dev/0xcb-Pluto/blob/main/rev1.0/Pluto.bottom.png)
+![](https://github.com/0xCB-dev/0xCB-Pluto/blob/main/rev1.0/pluto.top.png)  |  ![](https://github.com/0xCB-dev/0xcb-Pluto/blob/main/rev1.0/pluto.bottom.png)
 
 #### BOM:
 
