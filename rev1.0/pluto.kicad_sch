@@ -2950,7 +2950,7 @@
     (uuid 7098a325-02ac-4adb-bcb8-9b8cb2fef6f1)
     (property "Reference" "SW1" (id 0) (at 104.648 132.588 0))
     (property "Value" "SW_Push" (id 1) (at 110.363 132.588 0))
-    (property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342" (id 2) (at 103.378 132.588 0)
+    (property "Footprint" "0xcb:1.9x2.8mm SW" (id 2) (at 103.378 132.588 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 103.378 132.588 0)
@@ -3250,7 +3250,7 @@
     (property "Value" "ATMEGA32U4" (id 1) (at 186.055 55.88 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "0xcb:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias" (id 2) (at 191.135 87.63 0)
+    (property "Footprint" "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm" (id 2) (at 191.135 87.63 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 191.135 87.63 0)
@@ -3645,13 +3645,13 @@
       (reference "R6") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7098a325-02ac-4adb-bcb8-9b8cb2fef6f1"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_TL3342")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "0xcb:1.9x2.8mm SW")
     )
     (path "/e6bf6322-399b-44c9-a53a-e6d8c3dd4b6f"
       (reference "U1") (unit 1) (value "USBLC6-2SC6") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/d3062de9-086c-4d3d-bb7b-ebce978f68f9"
-      (reference "U2") (unit 1) (value "ATMEGA32U4") (footprint "0xcb:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias")
+      (reference "U2") (unit 1) (value "ATMEGA32U4") (footprint "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm")
     )
     (path "/4fac6e36-f2b7-4377-8f98-fd81996be7b8"
       (reference "Y1") (unit 1) (value "16MHz") (footprint "0xcb:Crystal_SMD_3225-4Pin_3.2x2.5mm")
