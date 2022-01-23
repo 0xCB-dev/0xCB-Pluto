@@ -409,7 +409,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "../../../../Downloads/micro.step",
-      "vrml": "../../../../Downloads/micro.wrl"
+      "vrml": "micro.wrl"
     },
     "page_layout_descr_file": ""
   },
