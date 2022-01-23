@@ -1,6 +1,6 @@
 # 0xCB-Pluto
 
-## Electrically and physically compatible with the standard Pro Micro featuring USB C, a flatter design for thight builds and preflashed with the QMK DFU bootloader for added stability.
+### Electrically and physically compatible with the standard Pro Micro featuring USB C, a flatter design for thight builds and preflashed with the QMK DFU bootloader for added stability. Also exposing all available pins!
 
 
 Licence | OSHWA
@@ -23,7 +23,7 @@ You can use the [humanpnp](https://files.0xcb.dev/0xCB-Pluto/humanpnp.html) to e
 
 KiCad 6 stable
 
-[Schematic](https://github.com/0xCB-dev/0xcb-Pluto/blob/main/rev1.0/Pluto.pdf)
+[Schematic](https://github.com/0xCB-dev/0xcb-Pluto/blob/main/rev1.0/pluto.pdf)
 
 Top | Bottom
 :-------------------------:|:-------------------------:
@@ -31,6 +31,20 @@ Top | Bottom
 
 #### BOM:
 
-| References          | Value       | Quantity |Part Nb.          |
-|---------------------|-------------|----------|------------------|
-
+ References                        | Value        | Quantity | Part Nb.            
+-----------------------------------|--------------|----------|---------------------
+ C3, C4, C7, C8                    | 100n         | 4        | C478888             
+ C2, C9, C10                       | 1u           | 3        | C29936              
+ C5, C6                            | 22p          | 2        | C85969              
+ C1                                | 10u          | 1        | C85713              
+ R1, R2                            | 5.1k         | 2        | C23186              
+ R4, R5                            | 22           | 2        | C174301             
+ R3, R6                            | 10k          | 2        | C98220              
+ D1                                | SMF5.0CA     | 1        | 576-SMF5.0CA       
+ U1                                | USBLC6-2SC6  | 1        | C7519               
+ U2                                | ATMEGA32U4   | 1        | ATMEGA32U4RC-MU-ND  
+ Y1                                | 16MHz        | 1        | C389842             
+ F1                                | 1A           | 1        | C369150             
+ SW1                               | SW_Push      | 1        | C589221             
+ FB1, FB2                          | 600R         | 2        | C74330              
+ J1                                | USB_IN       | 1        | 900-2169900001CT-ND 
