@@ -5,7 +5,12 @@
 
 Licence | OSHWA
 :-------------------------:|:-------------------------:
-![](https://github.com/0xCB-dev/0xcb-Pluto/blob/main/LICENSE.svg) | 
+![](https://github.com/0xCB-dev/0xcb-Pluto/blob/main/LICENSE.svg) | ![](https://github.com/0xCB-dev/0xcb-Pluto/blob/main/rev1.0/OSHWA.svg)
+
+### Available here:
+
+[KeebSupply](https://keeb.supply/products/0xcb-pluto)
+
 
 #### Flashing
 
